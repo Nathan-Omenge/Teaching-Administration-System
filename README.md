@@ -59,8 +59,7 @@ Contributions are welcome! If you’d like to add more queries or optimize the e
 ---
 
 ## 📫 Contact:
-For any questions or suggestions, feel free to reach out:  
-**Nathan Orang’o**  
+For any questions or suggestions, feel free to reach out to me
 📧 [nathanorango0@gmail.com](mailto:nathanorango0@gmail.com)  
 
 ---
